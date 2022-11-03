@@ -122,6 +122,6 @@ Github - [RICHIE ORITO](https://github.com/RichieOrito)
 
 ## Live Link
 
-LiveLink- [Gh-pages](https://orifeet.herokuapp.com/)
+LiveLink- [Gh-pages](https://orifeets.herokuapp.com/)
 
 [Go Back to the top](#OriFeets)
