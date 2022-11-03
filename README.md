@@ -1,8 +1,48 @@
-# Getting Started with Create React App
+# OriFeets
+## Table of Content
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
++ [Description](#description)
++ [Behaviour Driven Development](#behaviour-driven-development)
++ [Technology Used](#technology-used)
++ [Installation Requirement](#installation-requirement)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#authors-info)
++ [Live Link](#live-link)
 
-## Available Scripts
+## Description
+
+<p>An an E-commerce website for a Shoe shop, which allows users to navigate to different pages,
+search for different types of shoes, can view a promotions section, different categories of shoes,
+add to cart and ship the shoes purchased.
+</p>
+
+## Behaviour Driven Development
+
+<p>
+
+* A user can add to cart and ship to the desired address.
+* A user can select shoes from different categories.
+
+</p>
+
+## Technology Used
+
+* Reat.Js - building interactive user interface.
+
+## Installation Requirement
+
+* Open Terminal `ctrl+Alt+T`
+
+* Git clone - git clone https://github.com/RichieOrito/orifeets.git
+
+or
+
+* Git fork - Enter into your own repository and search - https://github.com/RichieOrito/orifeet then click on fork to add
+it on your own repository.
+
+ Navigate into the cloned project. 
+`cd orifeets`
 
 In the project directory, you can run:
 
@@ -39,32 +79,49 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+[Go Back to the top](#OriFeets)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Reference
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+* reactjs.org
+* W3schools
+* stackOverFlow
+## Licence
 
-### Code Splitting
+MIT License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Copyright (c) [2022](#licence) [Richard Orito](#licence)
 
-### Analyzing the Bundle Size
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-### Making a Progressive Web App
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[Go Back to the top](#orifeets)
 
-### Advanced Configuration
+## Authors Info
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Linked - [Richard Orito](https://www.linkedin.com/in/richie-orito/)
 
-### Deployment
+Gmail - [oritorichie2@gmail.com]()
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Github - [RICHIE ORITO](https://github.com/RichieOrito)
 
-### `npm run build` fails to minify
+## Live Link
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+LiveLink- [Gh-pages](https://orifeet.herokuapp.com/)
+
+[Go Back to the top](#OriFeets)
