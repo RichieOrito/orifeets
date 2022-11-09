@@ -38,7 +38,7 @@ add to cart and ship the shoes purchased.
 
 or
 
-* Git fork - Enter into your own repository and search - https://github.com/RichieOrito/orifeet then click on fork to add
+* Git fork - Enter into your own repository and search - https://github.com/RichieOrito/orifeets then click on fork to add
 it on your own repository.
 
  Navigate into the cloned project. 
