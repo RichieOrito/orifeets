@@ -1,20 +1,32 @@
 # OriFeets
 ## Table of Content
 
-+ [Description](#description)
-+ [Behaviour Driven Development](#behaviour-driven-development)
-+ [Technology Used](#technology-used)
-+ [Installation Requirement](#installation-requirement)
-+ [Reference](#reference)
-+ [Licence](#licence)
-+ [Authors Info](#authors-info)
-+ [Live Link](#live-link)
+- [OriFeets](#orifeets)
+  - [Table of Content](#table-of-content)
+  - [Description](#description)
+  - [Behaviour Driven Development](#behaviour-driven-development)
+  - [Technology Used](#technology-used)
+  - [Installation Requirement](#installation-requirement)
+    - [`npm start`](#npm-start)
+    - [`npm test`](#npm-test)
+    - [`npm run build`](#npm-run-build)
+    - [`npm run eject`](#npm-run-eject)
+  - [Reference](#reference)
+  - [Licence](#licence)
+  - [Authors Info](#authors-info)
+  - [Live Link](#live-link)
 
 ## Description
 
-<p>An an E-commerce website for a Shoe shop, which allows users to navigate to different pages,
-search for different types of shoes, can view a promotions section, different categories of shoes,
-add to cart and ship the shoes purchased.
+<p>I have developed an innovative e-commerce shoe website using React.js, Redux Toolkit, and Firebase Firestore. With a focus on modern UI and UX design principles, the website provides users with a seamless and engaging shopping experience.
+
+The integration of Firebase Authentication in React Redux Toolkit ensures secure user authentication and enables personalized features such as saved carts, order history, and customer profiles. By utilizing Firebase Storage, the website allows for efficient storage and retrieval of shoe images, ensuring fast loading times and an immersive visual experience for shoppers.
+
+In the development process, I made extensive use of React hooks such as useState, useEffect, and useRef. These hooks helped me manage state, handle side effects, and access DOM elements efficiently. By leveraging these hooks, I was able to create dynamic and interactive components that enhance user interactivity and responsiveness.
+
+To enhance the visual appeal and user experience, I incorporated the Remix Icon library into my project. This comprehensive icon library provided a wide range of beautifully designed icons that I seamlessly integrated into various components and sections of the website. These icons not only enhance the aesthetics of the website but also improve usability and navigation.
+
+Overall, the e-commerce shoe website I built showcases the power of React.js, Redux Toolkit, and Firebase Firestore in creating a modern, feature-rich, and user-friendly online shopping platform. The combination of state-of-the-art technologies and best practices in UI/UX design has resulted in a highly functional and visually appealing website that provides an exceptional shopping experience for customers.
 </p>
 
 ## Behaviour Driven Development
