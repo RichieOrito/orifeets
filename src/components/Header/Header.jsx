@@ -10,8 +10,7 @@ import userIcon from '../../assets/images/user.png';
 
 import { Container, Row } from 'reactstrap';
 import { useSelector } from 'react-redux';
-// import useAuth from '../../custom-hooks/useAuth';
-import { Link } from 'react-router-dom';
+
 
 const nav__links = [
   {
@@ -35,7 +34,7 @@ const Header = () => {
 
   const menuRef = useRef(null);
   const navigate = useNavigate();
-  // const {currentUser} = useAuth();
+  
 
   const stickyHeaderFunc = () => {
     window.addEventListener('scroll', () => {
