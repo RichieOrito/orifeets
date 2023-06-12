@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ebc05fd9.css",
+    "main.js": "/static/js/main.3e7e2751.js",
+    "static/media/commonbg.jpg": "/static/media/commonbg.78659cd9bca14c4742dc.jpg",
+    "static/media/remixicon.svg?t=1590207869815": "/static/media/remixicon.9cedd2150922ead84869.svg",
+    "static/media/remixicon.eot?t=1590207869815": "/static/media/remixicon.5cb99e6cba5a4619063f.eot",
+    "static/media/remixicon.ttf?t=1590207869815": "/static/media/remixicon.f2616f597cf98f38d234.ttf",
+    "static/media/remixicon.woff?t=1590207869815": "/static/media/remixicon.8d09fa11700ed63cf96e.woff",
+    "static/media/shoe2.png": "/static/media/shoe2.07952487d1a2975a1b01.png",
+    "static/media/rubbers.png": "/static/media/rubbers.bfaffcc6f3c31bcbc21e.png",
+    "static/media/remixicon.woff2?t=1590207869815": "/static/media/remixicon.90668f6f9b3c2c18a090.woff2",
+    "static/media/shoe4.png": "/static/media/shoe4.048fdfe3582e4c724820.png",
+    "static/media/choggies.png": "/static/media/choggies.c5d0346aa75be8e67318.png",
+    "static/media/converse.png": "/static/media/converse.d001fc25b646ea7329ff.png",
+    "static/media/user.png": "/static/media/user.1e7a683bf460cb2f93ad.png",
+    "index.html": "/index.html",
+    "main.ebc05fd9.css.map": "/static/css/main.ebc05fd9.css.map",
+    "main.3e7e2751.js.map": "/static/js/main.3e7e2751.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc05fd9.css",
+    "static/js/main.3e7e2751.js"
+  ]
+}
