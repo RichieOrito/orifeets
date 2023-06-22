@@ -69,15 +69,15 @@ const Footer = () => {
                 <ListGroup className='footer__contact'>
                   <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
                     <span><i class="ri-map-pin-user-line"></i></span>
-                    <p>254 Nairobi, Kenya</p>
+                    <p>Nairobi, Kenya</p>
                   </ListGroupItem >
                   <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
                     <span><i class="ri-phone-fill"></i></span>
-                    <p>+254 720 334 690</p>
+                    <p>+254 711600131</p>
                   </ListGroupItem>
                   <ListGroupItem className='ps-0 border-0 d-flex align-items-center gap-2'>
                     <span><i class="ri-mail-fill"></i></span>
-                    <p>me@gmail.com</p>
+                    <p>oritorichie2@gmail.com</p>
                   </ListGroupItem>
                 </ListGroup>
             </div>
