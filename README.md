@@ -134,6 +134,6 @@ Github - [RICHIE ORITO](https://github.com/RichieOrito)
 
 ## Live Link
 
-LiveLink- [Heroku](https://orifeets.netlify.app/)
+LiveLink- [Netlify](https://orifeets.netlify.app/)
 
 [Go Back to the top](#OriFeets)
